@@ -1,0 +1,79 @@
+.scroll {
+    height: 300px;
+    overflow-x: auto;
+    display:flex;
+    margin:10%;
+}
+.small {
+    min-width:75%;
+    background-color: white;
+    border-right:2px solid black;
+}
+
+.box{
+    width:200px;
+    height:200px;
+    background-color:cyan;
+}
+.story{
+    height:220px;
+    display:flex;
+}
+
+.standard {
+    margin-left:3%;
+    margin-right:3%;
+}
+
+body {
+    background-color: rgb(197, 223, 232);
+    font-family:Arial, Helvetica, sans-serif;
+}
+hr {
+    height:2px;
+    background-color:black;
+}
+
+.title {
+    font-size: 300%;
+}
+
+.navbar{
+    
+    overflow: hidden;
+    display: block;
+    text-align: center;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    background-color:navy;
+}
+.navbar a {
+    width:70%;
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 25px;
+    text-decoration: none;
+    background-color: navy;
+}
+.navbar a:hover {
+    background-color: white;
+    color: navy;
+}  
+.navbar a.active {
+    background-color: white;
+    color: black;
+}
+.navbar th {
+    width:15.6%;
+}
+.standarda{
+    height:300px;
+}
+
+
+.title2{
+    font-size: 200%;
+}
