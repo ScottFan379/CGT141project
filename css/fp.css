@@ -88,3 +88,15 @@ hr {
     font-size: 1000%;
     float:left;
 }
+.standarda img {
+    height: 250px;
+    padding-right: 1%;
+    display: flex;
+    float: left;
+}
+.standarda p {
+    float: right;
+    font-size: 100%;
+    padding-left: 1%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
