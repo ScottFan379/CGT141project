@@ -73,7 +73,12 @@ hr {
 .standarda{
     height:300px;
 }
-
+.standard img{
+    margin-left: 5%;
+    width: 90%;
+    height: 250px;
+    border: 3px solid black;
+}
 
 .title2{
     font-size: 200%;
