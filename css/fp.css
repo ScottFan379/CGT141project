@@ -1,8 +1,12 @@
 .scroll {
-    height: 500px;
+    height: 100%;
     overflow-x: auto;
     display:flex;
     margin:10%;
+}
+.scroll img{
+    height: 100%;
+    width: 100%;
 }
 .small {
     min-width:75%;
