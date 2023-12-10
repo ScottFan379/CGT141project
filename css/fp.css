@@ -10,11 +10,12 @@
     border-right:2px solid black;
 }
 
-.box{
-    width:200px;
-    height:200px;
+.box img{
+    height: 180px;
+    width: 320px;
     background-color:cyan;
 }
+
 .story{
     height:220px;
     display:flex;
